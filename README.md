@@ -1,3 +1,3 @@
 # blurryPicture
-To view this project on your browser, download the source code, open "index.html" file in your browser.
-Refresh the page to see the blurry picture loading.
+To view this project on your browser, click this link https://vermillion-melba-e5f2ab.netlify.app/
+whenever the page is refreshed the blurry picture loads
